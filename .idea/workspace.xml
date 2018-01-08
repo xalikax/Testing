@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="845b3ae7-4adb-485d-bc88-ecb5edd31ed2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elem/Armata-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elem/Layer 41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elem/Proxima Nova Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/untitled1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/index.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/index.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -241,12 +230,12 @@
       <workItem from="1515266698498" duration="107000" />
       <workItem from="1515266878519" duration="4352000" />
       <workItem from="1515315750425" duration="14306000" />
-      <workItem from="1515398393084" duration="3870000" />
+      <workItem from="1515398393084" duration="4244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22635000" />
+    <option name="totallyTimeSpent" value="23009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
