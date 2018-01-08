@@ -1,0 +1,78 @@
+@font-face {
+  src: url("../elem/Armata-Regular.ttf");
+  font-family: "Armata"; }
+@font-face {
+  src: url("../elem/Proxima Nova Regular.otf");
+  font-family: Proxima; }
+body {
+  background-image: url("../elem/Layer 41.jpg"); }
+
+.header {
+  margin-top: 5%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-family: Armata;
+  font-size: 33px;
+  line-height: 0.2; }
+
+.header p:last-child {
+  font-family: Armata;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 40px;
+  line-height: 2;
+  color: rgba(255, 255, 255, 0.8); }
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+
+.block {
+  background-color: #3D9DDC;
+  color: white;
+  margin-left: 25px;
+  text-align: center;
+  width: 300px;
+  border-radius: 5px;
+  margin-bottom: 20px; }
+
+.block1 {
+  height: 350px; }
+
+.block2 {
+  height: 460px; }
+
+.block_trafic {
+  background-color: #2E87C2;
+  border-radius: 10px;
+  margin-left: 35%;
+  width: 100px;
+  text-align: center;
+  height: 50px;
+  font-size: 23px; }
+
+.block_content {
+  color: grey;
+  font-family: Proxima; }
+
+.block_content p {
+  padding-top: 15px;
+  height: 40px;
+  background-color: white;
+  margin-bottom: -6%; }
+  .block_content p:nth-of-type(odd) {
+    background-color: #EEEEEE; }
+
+.block_title {
+  border-bottom: 1px solid #2E87C2;
+  height: 30px; }
+
+.content p:last-child {
+  margin-bottom: 20px; }
+
+/*# sourceMappingURL=index.css.map */
